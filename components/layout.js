@@ -12,7 +12,7 @@ export default function Layout({ children }) {
             <a href="https://nutasiasociatii.ro/#about">Despre</a>
             <a href="https://nutasiasociatii.ro/#services">Servicii juridice</a>
             <a href="https://nutasiasociatii.ro/#practice-areas">Arii de practică</a>
-            <a href="/">Blog</a>
+            <Link href="/">Blog</Link>
             <a href="https://nutasiasociatii.ro/#contact">Contact</a>
           </div>
         </div>
