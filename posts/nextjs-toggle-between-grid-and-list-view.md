@@ -8,7 +8,7 @@ tags:
   - nextjs
 ---
 
-Today we'll be building a simple yet super effective toggle function.
+# Today we'll be building a simple yet super effective toggle function.
 It will give us the option to toggle between the list and grid view.
 
 The result will work like the video below.
