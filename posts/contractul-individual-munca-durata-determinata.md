@@ -1,0 +1,42 @@
+---
+title: 'CONTRACTUL INDIVIDUAL DE MUNCĂ PE DURATĂ DETERMINATĂ'
+metaTitle: 'CONTRACTUL INDIVIDUAL DE MUNCĂ PE DURATĂ DETERMINATĂ'
+metaDesc: 'Contractul individual de muncă pe durată determinată: drepturi, limite și prelungiri conform Codului Muncii din România.'
+socialImage: images/04-10-2021.jpg
+date: '2024-10-01'
+tags:
+  - contract, muncă, drepturi, codul muncii, contract individual de muncă
+---
+
+
+Ca regulă, contractele individuale de muncă se încheie pe durată nedeterminată. De la această regulă se poate însă deroga și se poate încheia un contract individual de muncă pe durată determinată doar în condițiile expres și limitativ prevăzute de lege.
+
+Astfel, cazurile în care legea permite încheierea unui contract individual de muncă pe durată determinată sunt în număr de 8, acestea fiind prevăzute de art. 83 din Codul Muncii.
+
+- a) înlocuirea unui salariat în cazul suspendării contractului său de muncă, cu excepția situației în care acel salariat participă la grevă;
+- b) creșterea și/sau modificarea temporară a structurii activității angajatorului;
+- c) desfășurarea unor activități cu caracter sezonier;
+- d) în situația în care este încheiat în temeiul unor dispoziții legale emise cu scopul de a favoriza temporar anumite categorii de persoane fără loc de muncă;
+- e) angajarea unei persoane care, în termen de 5 ani de la data angajării, îndeplinește condițiile de pensionare pentru limită de vârstă;
+- f) ocuparea unei funcții eligibile în cadrul organizațiilor sindicale, patronale sau al organizațiilor neguvernamentale, pe perioada mandatului;
+- g) angajarea pensionarilor care, în condițiile legii, pot cumula pensia cu salariul;
+- h) în alte cazuri prevăzute expres de legi speciale ori pentru desfășurarea unor lucrări, proiecte sau programe.
+
+Fiind vorba de o varietate a contractului individual de muncă, acesta trebuie să îmbrace forma scrisă în mod obligatoriu și trebuie să cuprindă, de asemenea, în mod expres, durata pentru care se încheie.
+
+Pe durata executării contractului individual de muncă, salariații cu contract pe durată determinată beneficiază de toate drepturile prevăzute în legislația muncii, în contractul colectiv de muncă aplicabil, în regulamentul intern, precum și în contractul individual de muncă, angajatorul având obligația de a nu  face nicio diferențiere de tratament față de salariații încadrați cu contract pe durata nedeterminată, cu excepția cazurilor în care tratamentul diferit este justificat de motive obiective.
+
+Contractul individual de muncă pe durată determinată poate fi încheiat pe o perioadă de cel mult 36 de luni.
+
+La data expirării termenului contractului individual de muncă încheiat pe durată determinată acesta încetează de drept. Totuși părțile prin acordul scris, pot decide prelungirea acestuia de cel mult două ori (maxim 3 contracte individuale de muncă succesive pe durată determinată între aceleași părți) pentru perioada realizării unui proiect, program sau unei lucrări, fără însă a se depăși durata maximă de 36 de luni.
+
+De asemenea, o excepție de la regula potrivit căreia contractul individual de muncă pe durată determinată încetează la momentul expirării termenului pentru care a fost încheiat, este dată de situația înlocuirii unui salariat al cărui contract de muncă este suspendat. 
+
+Astfel, la momentul încetării motivelor ce au determinat suspendarea contractului individual de muncă al salariatului titular, contractul individual de muncă pe durată determinată va înceta de drept.
+
+Nu în ultimul rând, salariații încadrați cu contract individual de muncă pe durată determinată pot fi supuși unei perioade de probă a cărei durată maximă legiuitorul a stabilit-o în mod corect sub limitele perioadei de probă pentru salariații cu contract individual de muncă pe durată nedeterminată, după cum urmează:
+
+- a) 5 zile lucrătoare pentru o durată a contractului individual de muncă mai mică de 3 luni;
+- b) 15 zile lucrătoare pentru o durată a contractului individual de muncă cuprinsă între 3 și 6 luni;
+- c) 30 de zile lucrătoare pentru o durată a contractului individual de muncă mai mare de 6 luni;
+- d) 45 de zile lucrătoare în cazul salariaților încadrați în funcții de conducere, pentru o durată a contractului individual de muncă mai mare de 6 luni.
