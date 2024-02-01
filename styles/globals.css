@@ -30,3 +30,7 @@
 .menu a:hover {
     border-bottom: 0.5px solid rgb(249, 244, 239);
 }
+
+.prose {
+    text-align: justify;
+}
